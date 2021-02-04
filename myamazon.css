@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+input{
+     border:none; 
+     width:100px; 
+    }
+.minus,.plus{
+    border:none;
+   text-align: center;
+   background-color: white;
+}
+.card{
+        margin-left: 25px;
+
+}
+label{
+    cursor: pointer;
+}

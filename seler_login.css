@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow:hidden;
+    width:100vw;
+    height:100vh;
+    background-image: url("undraw_Access_account_re_8spm.svg");
+    background-repeat: no-repeat, repeat;
+ }
+ .form-control1 {
+     position:relative;
+     padding-bottom: 20px;
+ }
+ 
+.container
+{
+    margin-left: 35%;
+    position:relative;
+    width:60vw;
+  
+}
+.form-control1 .success input{
+    border-color:#2ecc72;
+    color:#2ecc72;
+
+}
+.form-control1 .error input{
+    border-color:#e74c3c;
+}
+
+small{
+    visibility: visible;
+    color: #e74c3c;
+}
+i{
+    visibility: hidden;
+}

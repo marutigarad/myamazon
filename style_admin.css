@@ -1,0 +1,26 @@
+
+.add{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(199, 235, 235);
+    border:solid 2px deepskyblue;
+    width:100%;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 4%;
+}
+button{
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    box-shadow: 10px 5px 5px grey;
+    
+}
+.b1{
+    background-color: rgb(54, 241, 101);
+}
+.b2{
+    background-color: rgb(245, 83, 116);
+}
+input{
+    border:2px lightblue;
+}

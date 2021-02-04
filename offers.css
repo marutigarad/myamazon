@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+   }
+body{
+       overflow:hidden;
+       width:100vw;
+       height:100vh;
+       background-image: url("images/undraw_referral_4ki4.svg");
+       background-repeat: no-repeat, repeat;
+       position: relative;
+   }
+   section{
+       position:absolute;
+       width:100vw;
+       max-width:40vw;
+       left:55vw;
+       top:8vh;
+       
+   }
+   .section{
+       
+       width:100vw;
+       max-width:40vw;
+      
+       
+   }
+   .search{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgb(24, 19, 19);
+    border-bottom: 1px solid gray;
+   }

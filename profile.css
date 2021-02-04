@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow:hidden;
+    width:100vw;
+    height:100vh;
+    background-image: url("undraw_referral_4ki4.svg");
+    background-repeat: no-repeat, repeat;
+ }
+ img{
+     height: 200px;
+     width: 200px;
+     border:2px solid yellow;
+     border-radius: 50%;
+     margin-left: 25%;
+ }
+ .form-control{
+
+     margin-left: 50%;
+     width: 40vw;
+     border-color: #e9ecef;
+     border-radius: 30px;
+ }
+ .inputgp{
+    width: 350px;
+    border: none;
+  }
